@@ -27,7 +27,7 @@ BASEDIR = os.path.dirname(os.path.abspath(__file__))
 
 
 class LocalRecognizer(object):
-    def __init__(self, sample_rate=16000, lang="en-us", key_phrase="mycroft"):
+    def __init__(self, sample_rate=16000, lang="en-us", key_phrase="cynthia"):
         self.lang = lang
         self.key_phrase = key_phrase
         self.sample_rate = sample_rate
