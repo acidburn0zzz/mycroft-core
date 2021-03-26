@@ -23,7 +23,7 @@ astral==0.9
 tzlocal==1.2
 parsedatetime==1.5
 pdoc==0.3.2
-pyyaml==3.11
+pyyaml==5.4
 feedparser==5.2.1
 pyalsaaudio==0.8.2
 xmlrunner==1.7.7
